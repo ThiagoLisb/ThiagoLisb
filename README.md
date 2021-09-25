@@ -1,5 +1,5 @@
+<div>
 <img style="margin-top: 20px;" align="right" width="300px" src="https://media2.giphy.com/media/QTfX9Ejfra3ZmNxh6B/200.webp?cid=ecf05e47gq12eiq2rzpw8i2j7uxbemwf1hnp0vz26qeh6bbz&rid=200.webp&ct=s">
-
 
 #  Hi, Folks!! Como estao vocês?!<img src="https://media2.giphy.com/media/kKpEymImSTwMIWaKrK/giphy.gif?cid=ecf05e47e1oejlswmg1dlwlgamqmthwws5a90p8tuldteszi&rid=giphy.gif&ct=s" width="40px">
 
@@ -8,7 +8,7 @@
 - :mortar_board: Graduando em Ciência da Computação
 - 💻 Desenbolvendo hard/soft skils com a Alura
 - ⚖️  Bacharel em Direito. Especialista em Direito tributário 
-
+</div><br>
 <div align="center">
   <a href="https://github.com/ThiagoLisb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoLisb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
